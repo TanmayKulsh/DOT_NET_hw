@@ -1,0 +1,12 @@
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\bin\Debug\net7.0\membership.deps.json
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\bin\Debug\net7.0\membership.dll
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\bin\Debug\net7.0\membership.pdb
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\membership.csproj.AssemblyReference.cache
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\membership.AssemblyInfoInputs.cache
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\membership.AssemblyInfo.cs
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\membership.csproj.CoreCompileInputs.cache
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\membership.dll
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\refint\membership.dll
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\membership.pdb
+D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\Membership\obj\Debug\net7.0\ref\membership.dll
