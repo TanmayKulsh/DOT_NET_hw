@@ -10,3 +10,15 @@ D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.dll
 D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\HR\obj\Debug\net7.0\refint\HR.dll
 D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.pdb
 D:\IACSD PRAC\DOT_NET\DAY_2\Ecommerce\HR\obj\Debug\net7.0\ref\HR.dll
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\bin\Debug\net7.0\HR.deps.json
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\bin\Debug\net7.0\HR.dll
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\bin\Debug\net7.0\HR.pdb
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.csproj.AssemblyReference.cache
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfoInputs.cache
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfo.cs
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.csproj.CoreCompileInputs.cache
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.dll
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\refint\HR.dll
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\HR.pdb
+D:\IACSD PRAC\DOT_NET_hw\DAY_2\Ecommerce\HR\obj\Debug\net7.0\ref\HR.dll

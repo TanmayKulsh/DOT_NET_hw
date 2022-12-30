@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Test\\Test.csproj": {}
+    "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\HR.csproj": {
+    "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\HR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\HR.csproj",
+        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\HR.csproj",
         "projectName": "HR",
-        "projectPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\HR.csproj",
+        "projectPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\HR.csproj",
         "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
-        "outputPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\obj\\",
+        "outputPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tanmay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {
+    "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
+        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
         "projectName": "membership",
-        "projectPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
+        "projectPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
         "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
-        "outputPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\obj\\",
+        "outputPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tanmay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -110,14 +110,14 @@
         }
       }
     },
-    "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Test\\Test.csproj": {
+    "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Test\\Test.csproj",
+        "projectPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
-        "outputPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Test\\obj\\",
+        "outputPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tanmay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -132,11 +132,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\HR.csproj": {
-                "projectPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\HR.csproj"
+              "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\HR.csproj": {
+                "projectPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\HR.csproj"
               },
-              "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {
-                "projectPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj"
+              "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {
+                "projectPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj"
               }
             }
           }

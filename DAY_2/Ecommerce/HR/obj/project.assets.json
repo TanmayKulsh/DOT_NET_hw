@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\HR.csproj",
+      "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\HR.csproj",
       "projectName": "HR",
-      "projectPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\HR.csproj",
+      "projectPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\HR.csproj",
       "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
-      "outputPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\HR\\obj\\",
+      "outputPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\HR\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tanmay\\AppData\\Roaming\\NuGet\\NuGet.Config"

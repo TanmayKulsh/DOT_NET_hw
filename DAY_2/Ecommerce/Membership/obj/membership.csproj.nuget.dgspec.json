@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {}
+    "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {}
   },
   "projects": {
-    "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {
+    "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
+        "projectUniqueName": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
         "projectName": "membership",
-        "projectPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
+        "projectPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\membership.csproj",
         "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
-        "outputPath": "D:\\IACSD PRAC\\DOT_NET\\DAY_2\\Ecommerce\\Membership\\obj\\",
+        "outputPath": "D:\\IACSD PRAC\\DOT_NET_hw\\DAY_2\\Ecommerce\\Membership\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tanmay\\AppData\\Roaming\\NuGet\\NuGet.Config"

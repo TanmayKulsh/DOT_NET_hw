@@ -1,4 +1,5 @@
 ﻿using Membership;
+using HR;
 
 //Entry point code for Ecommerce Solution
 
@@ -13,5 +14,6 @@ string password = Console.ReadLine();
 
 if(AuthUser.validate(email,password)){
     Console.WriteLine("Welcome to YASH GUJJU'S flower");
-
+    Employee emp = new Employee();
+    Console.WriteLine(emp);
 }
