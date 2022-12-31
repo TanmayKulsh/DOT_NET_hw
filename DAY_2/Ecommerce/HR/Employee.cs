@@ -1,6 +1,5 @@
 ﻿namespace HR;
-public class Employee
-{
+public abstract class Employee{
 
     public int Id { get; set; }
     public string FirstName { get; set; }
@@ -38,12 +37,16 @@ public class Employee
         this.DA = da;
     }
     // public abstract void DoWork();
+       public abstract void DoWork();
+
+       public virtual float ComputePay(){
+        float pay = (DA * 25)+ BasicSalary + HRA;
+        return pay;
+       }
 
     public override string ToString()
     {
         string str = string.Format("{0},{1},{2},{3},{4},{5}", Id, FirstName, LastName, Email, ContactNumber, Location);
         return str;
     }
-
-
 }
