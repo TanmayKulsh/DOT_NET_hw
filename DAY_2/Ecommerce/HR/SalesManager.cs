@@ -10,12 +10,15 @@ public class SalesManager:SalesEmployee{
                     string email, string contactNumber, string location,
                     DateTime bDate, float da, float hra, float bsal,
                     float target, float salesDone,float bonus)
-                    :base(id, firstName, lastName, 
-                    email, contactNumber, location,
-                    bDate, da, hra, bsal,
-                    target,salesDone){
+                    :base(target, salesDone, bonus, 
+                    id, firstName, lastName,
+                    email, contactNumber, location, bDate,
+                    da,hra,bsal){
         this.Bonus=bonus;
     }
+    // float Target,float SalesDone,float Incentive,int id, string firstName, string lastName,
+    //                   string email, string contactNumber, string location,
+    //                   DateTime bDate, float da, float hra, float bsal
 
 
     public override float ComputePay()

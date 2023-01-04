@@ -13,10 +13,18 @@ Console.WriteLine("Enter Your Email password:");
 string password = Console.ReadLine();
 
 if(AuthUser.validate(email,password)){
-    
-    Console.WriteLine("Welcome to YASH GUJJU'S flower");
-    Employee emp = new Employee();
+
+    Console.WriteLine("Welcome to Transflower Store");
+    Employee emp=new SalesManager();
+    emp.DoWork();
     Console.WriteLine(emp);
+    float salary=emp.ComputePay();
+    Console.WriteLine("Salary = "+ salary);
+}
+else{
+     Console.WriteLine("Invalid User");
+  
 }
 
+Console.WriteLine("Thank you for visiting Transflower");
 

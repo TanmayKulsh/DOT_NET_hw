@@ -12,7 +12,7 @@ public class AuthUser
                             string email, string location, string contactNumber){
           bool status=false;
           try{
-             User theUser=new User();
+            User theUser=new User();
             theUser.FirstName=firstName;
             theUser.LastName=lastName;
             theUser.Email=email;

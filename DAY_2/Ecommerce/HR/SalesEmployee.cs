@@ -20,7 +20,7 @@ public class SalesEmployee:Employee{
                         this.Incentive = Incentive;
     }
 
-    public void DoWork(){
+    public override void DoWork(){
         if(SalesDone > Target){
         this.Incentive = 5000;
         }else{
